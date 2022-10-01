@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Clojure
+- 💬 Ask me about JavaScript and React
+
 <!--
 **strangebreww/strangebreww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
