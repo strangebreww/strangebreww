@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Clojure
+- 🌱 I’m currently learning Vue.js
 - 💬 Ask me about TypeScript and React
 
 <!--
